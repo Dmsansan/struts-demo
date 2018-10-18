@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="struts">
+    <output-path>$PROJECT_DIR$/out/artifacts/struts</output-path>
+    <root id="archive" name="struts.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/out/artifacts/demo_war_exploded" />
+    </root>
+  </artifact>
+</component>
